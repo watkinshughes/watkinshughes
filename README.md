@@ -3,8 +3,11 @@ Ryan Watkins-Hughes combines a passion for all things interactive to deliver com
 Ryan has worked on projects for numerous brands including Southwest Airlines, Citibank, Home Depot, Best Buy, Macy's, and Bloomingdale's.
 
 ### WORK EXPERIENCE
+#### PRINCIPAL ENGINEER
+##### DriveWealth | February 2021 - Present
+
 #### SENIOR (LEAD) FRONT-END ENGINEER
-##### Global Holdings   |   May 2019 - Present 
+##### Global Holdings   |   May 2019 - January 2021
 
 Mentor and lead team of front-end software engineers. Lead front-end architecture across software projects and technologies including new web-based applications in React and Typescript. Extend and update .NET applications with React-based components.
 
