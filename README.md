@@ -5,8 +5,9 @@ Ryan has worked on projects for numerous brands including Southwest Airlines, Ci
 ### WORK EXPERIENCE
 #### PRINCIPAL ENGINEER
 ##### DriveWealth | February 2021 - Present
+Lead agile software engineering team building enterprise TypeScript, React and Node.js web applications. Component-driven development via React and Storybook. Career and hiring manager for a diverse team of talented software engineers.
 
-#### SENIOR (LEAD) FRONT-END ENGINEER
+#### LEAD FRONT-END ENGINEER
 ##### Global Holdings   |   May 2019 - January 2021
 
 Mentor and lead team of front-end software engineers. Lead front-end architecture across software projects and technologies including new web-based applications in React and Typescript. Extend and update .NET applications with React-based components.
