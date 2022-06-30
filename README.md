@@ -3,9 +3,12 @@ Ryan Watkins-Hughes combines a passion for all things interactive to deliver com
 Ryan has worked on projects for numerous brands including Southwest Airlines, Citibank, Home Depot, Best Buy, Macy's, and Bloomingdale's.
 
 ### WORK EXPERIENCE
+#### ENGINEERING MANAGER
+##### DriveWealth | March 2022 - Present
+Lead agile software engineering team building enterprise TypeScript, React and Node.js web applications. Component-driven development via React and Storybook. Maintain Amazon Web Services architecture and develop new cloud-based features and deployments. Career and hiring manager for a diverse team of talented software engineers.
+
 #### PRINCIPAL ENGINEER
-##### DriveWealth | February 2021 - Present
-Lead agile software engineering team building enterprise TypeScript, React and Node.js web applications. Component-driven development via React and Storybook. Career and hiring manager for a diverse team of talented software engineers.
+##### DriveWealth | February 2021 - March 2022
 
 #### LEAD FRONT-END ENGINEER
 ##### Global Holdings   |   May 2019 - January 2021
@@ -48,10 +51,10 @@ Taught courses investigating aspects of design in the digital realm from digital
 
 
 ### SKILLS
-- Engineering team lead
+- Engineering and Design team lead
 - JavaScript, React, React Native, HTML, CSS, SASS/Less, webpack, node, express, REST, graphQL, mongoDB, git, PHP, mySQL
 - Material-UI, Bootstrap
-- DevOps, continuous integration, GitHub, GitLab, CircleCI, Azure DevOps, Jenkins, AWS, Azure, Google Cloud
+- DevOps, continuous integration, GitHub, GitLab, CircleCI, Azure DevOps, Jenkins, Amazon Web Services, Azure, Google Cloud
 - Agile project management
 - Interactive accessibility and ADA compliance
 - Design thinking and UX problem solving
