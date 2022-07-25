@@ -17,14 +17,12 @@ Expanded and improved Amazon Web Services architecture and created new cloud-bas
 
 #### LEAD FRONT-END ENGINEER
 ##### Global Holdings   |   May 2019 - January 2021
-
 Mentored and led front-end engineering teams for web, Android, and iOS applications that collectively processed billions of dollars in yearly transactions for millions of users, while growing annual revenue to over $18m.
 
 Front-end architecture across multiple Azure deployed enterprise applications built with TypeScript, React, and C#.
 
 #### INTERACTIVE DIRECTOR
 ##### AcrobatAnt   |   April 2017 – May 2019
-
 Managed all aspects of engineering and interactive disciplines for AcrobatAnt's diverse client base.
 
 Implemented an agile software development process for multiple teams working across disciplines and projects.
@@ -40,7 +38,6 @@ Introduced design sprints for the enterprise software platform.
 
 #### SENIOR PRESENTATION LAYER ENGINEER
 ##### Razorfish  |  March 2013 – February 2016 
-
 Leadership and career management for a distributed team of UI engineers tasked with creating multiple large-scale, responsive, ADA-compliant web applications for Fortune 20 clients used by millions of users globally.
 
 Helped hire over 20 engineers from an initial team of two.
@@ -49,7 +46,6 @@ Actively collaborated with creative, product, and client teams as the technology
 
 #### WEB DESIGN & DEVELOPMENT MANAGER
 ##### Teach For America  |  May 2011 – March 2013 
-
 Engineering, design, and career management for a remote cross functional team tasked with building applications for internal organizational stakeholders.
 
 Implemented responsive design and development practice across the organization.
@@ -58,7 +54,6 @@ Front-end engineering for the organization's primary website.
 
 #### ADJUNCT PROFESSOR
 ##### Tulane University  |  May 2010 – May 2011 
-
 Taught courses investigating aspects of design in the digital realm from imaging to time-based media.
 
 Focused on the development of visual skills, critical voice, interactivity, and design.
