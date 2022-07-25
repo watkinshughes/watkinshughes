@@ -1,11 +1,16 @@
-Ryan Watkins-Hughes combines a passion for all things interactive to deliver compelling digital experiences. Interests and expertise include JavaScript architecture, agile project management and accessible user experience design.
-
-Ryan has worked on projects for numerous brands including Southwest Airlines, Citibank, Home Depot, Best Buy, Macy's, and Bloomingdale's.
+Ryan Watkins-Hughes has almost 20 years of experience in software engineering and design for high growth startups, enterprise businesses, and global interactive agencies. He combines a passion for product development to guide cross functional teams in delivering delightful, compelling user experiences for highly scalable, performant, and secure applications. 
 
 ### WORK EXPERIENCE
 #### ENGINEERING MANAGER
 ##### DriveWealth | March 2022 - Present
-Lead agile software engineering team building enterprise TypeScript, React and Node.js web applications. Component-driven development via React and Storybook. Maintain Amazon Web Services architecture and develop new cloud-based features and deployments. Career and hiring manager for a diverse team of talented software engineers.
+Hiring, performance, and career growth for a team of remote software engineers that tripled in size during DriveWealth’s $450m Series D round.
+
+Reported and collaborated directly with executive leadership to create and measure critical strategic, financial, and engineering goals.
+Technical execution, sprint planning, and engineering roadmap for building world class, highly scalable applications using TypeScript, React, node, and 
+Java for a rapidly growing user base of millions of global accounts.
+
+Expanded and improved Amazon Web Services architecture and created new cloud-based features and deployment strategies.
+
 
 #### PRINCIPAL ENGINEER
 ##### DriveWealth | February 2021 - March 2022
@@ -13,51 +18,71 @@ Lead agile software engineering team building enterprise TypeScript, React and N
 #### LEAD FRONT-END ENGINEER
 ##### Global Holdings   |   May 2019 - January 2021
 
-Mentor and lead team of front-end software engineers. Lead front-end architecture across software projects and technologies including new web-based applications in React and Typescript. Extend and update .NET applications with React-based components.
+Mentored and led front-end engineering teams for web, Android, and iOS applications that collectively processed billions of dollars in yearly transactions for millions of users, while growing annual revenue to over $18m.
 
-#### DIRECTOR OF DIGITAL SERVICES
+Front-end architecture across multiple Azure deployed enterprise applications built with TypeScript, React, and C#.
+
+#### INTERACTIVE DIRECTOR
 ##### AcrobatAnt   |   April 2017 – May 2019
 
-Lead and manage all aspects of engineering, interactive development, UX and UI design, interactive and online presence disciplines for AcrobatAnt's diverse client base. Managed freelance developers and lead and reviewed code development for all agency projects.
+Managed all aspects of engineering and interactive disciplines for AcrobatAnt's diverse client base.
 
-#### WEB ARCHITECT (UI + UX TEAM LEAD)
+Implemented an agile software development process for multiple teams working across disciplines and projects.
+
+#### PRINCIPAL WEB ARCHITECT
 ##### Continuum Analytics   |   February 2016 – April 2017
 
-Lead a team of developers and designers. Implemented design sprints for enterprise software products. UI and UX implementation for the primary brand website. Company website architecture including UI code, design, CMS, deployment, QA and process.
+Hiring, sprint planning, and career goals for a rapidly growing cross-functional team of frontend engineers, backend engineers, and UI/UX designers throughout the duration of Anaconda’s successful $40m Series A round.
+
+Application architecture, deployment processes, and quality assurance for multiple simultaneous projects.
+
+Introduced design sprints for the enterprise software platform.
 
 #### SENIOR PRESENTATION LAYER ENGINEER
 ##### Razorfish  |  March 2013 – February 2016 
 
-Created large-scale, branded, ADA-compliant, responsive JavaScript applications for Fortune 20 clients. Actively collaborated with multiple teams as the engineering lead for simultaneous high-proﬁle projects.
+Leadership and career management for a distributed team of UI engineers tasked with creating multiple large-scale, responsive, ADA-compliant web applications for Fortune 20 clients used by millions of users globally.
 
-#### MANAGER, WEB DEVELOPMENT
+Helped hire over 20 engineers from an initial team of two.
+
+Actively collaborated with creative, product, and client teams as the technology lead for multiple simultaneous multi-million dollar projects, including the single largest Razorfish client engagement globally to date with over $50m in annual account revenue.
+
+#### WEB DESIGN & DEVELOPMENT MANAGER
 ##### Teach For America  |  May 2011 – March 2013 
 
-Engineering lead for a team tasked with servicing multimedia needs of internal organizational clients. Lead implementation of responsive design and development practice across the organization.
+Engineering, design, and career management for a remote cross functional team tasked with building applications for internal organizational stakeholders.
+
+Implemented responsive design and development practice across the organization.
+
+Front-end engineering for the organization's primary website.
 
 #### ADJUNCT PROFESSOR
 ##### Tulane University  |  May 2010 – May 2011 
 
-Taught courses investigating aspects of design in the digital realm from digital imaging to time-based media. Focus on the development of visual skills, critical voice along with interactivity and interface design.
+Taught courses investigating aspects of design in the digital realm from imaging to time-based media.
+
+Focused on the development of visual skills, critical voice, interactivity, and design.
 
 #### SENIOR INTERACTIVE DESIGNER (FREELANCE)
 ##### The Berman Group | June 2006 - June 2008
 
-• Formulate layout design and presentation approach for multiple interactive client projects
-• Specify details such as typography, photography, graphics, animation, and video
-• Work with art, copy-writing, and production departments to finalize interactive requirements and approach
-• Present wireframes, mockups, final layouts and html/css output to Creative/Art Directors for approval before client presentations
-• Develop HTML/CSS and Flash for final production deliverables
+#### PRINCIPAL
+##### Proper Interactive | May 2001 - May 2011
 
+Owned and managed freelance web design and development business.
 
 ### SKILLS
-- Engineering and Design team lead
-- JavaScript, React, React Native, HTML, CSS, SASS/Less, webpack, node, express, REST, graphQL, mongoDB, git, PHP, mySQL
-- Material-UI, Bootstrap
-- DevOps, continuous integration, GitHub, GitLab, CircleCI, Azure DevOps, Jenkins, Amazon Web Services, Azure, Google Cloud
-- Agile project management
+- Create and deliver measurable metrics and milestones to guarantee overall long-term success for individuals, teams, and organizations
+Product roadmap creation, planning, and execution
+- TypeScript, JavaScript, React, React Native, node, REST, graphQL
+- Amazon Web Services, Google Cloud Platform, Azure
+- DevOps, continuous integration and delivery, GitHub, GitLab, CircleCI, Jenkins
+- Quality Assurance engineering and automation
 - Interactive accessibility and ADA compliance
 - Design thinking and UX problem solving
+- UI systems/pattern design, style guides, wireframing, user testing, rapid prototyping, responsive design and development
+- Agile project management
+- WordPress, Drupal, custom headless CMS
 
 
 ### EDUCATION
