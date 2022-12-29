@@ -1,8 +1,9 @@
 Ryan Watkins-Hughes has almost 20 years of experience in software engineering and design for high growth startups, enterprise businesses, and global interactive agencies. He combines a passion for product development to guide cross functional teams in delivering delightful, compelling user experiences for highly scalable, performant, and secure applications. 
 
 ### WORK EXPERIENCE
-#### ENGINEERING MANAGER
-##### DriveWealth | March 2022 - Present
+#### PRINCIPAL ENGINEER
+##### DriveWealth | February 2021 - March 2022
+
 Hiring, performance, and career growth for a team of remote software engineers that tripled in size during DriveWealth’s $450m Series D round.
 
 Reported and collaborated directly with executive leadership to create and measure critical strategic, financial, and engineering goals.
@@ -11,12 +12,8 @@ Java for a rapidly growing user base of millions of global accounts.
 
 Expanded and improved Amazon Web Services architecture and created new cloud-based features and deployment strategies.
 
-
-#### PRINCIPAL ENGINEER
-##### DriveWealth | February 2021 - March 2022
-
 #### LEAD FRONT-END ENGINEER
-##### Global Holdings   |   May 2019 - January 2021
+##### Global Holdings   |   May 2019 - Present
 Mentored and led front-end engineering teams for web, Android, and iOS applications that collectively processed billions of dollars in yearly transactions for millions of users, while growing annual revenue to over $18m.
 
 Front-end architecture across multiple Azure deployed enterprise applications built with TypeScript, React, and C#.
