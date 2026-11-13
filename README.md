@@ -1,4 +1,4 @@
-Engineering Leader, Principal UI/Product Architect, and hands-on player-coach with 12+ years of experience leading frontend and full-stack squads, scaling high-throughput web platforms, and governing enterprise design systems.
+Engineering Leader, UI/Product Architect, and hands-on player-coach with 12+ years of experience leading frontend and full-stack squads, scaling high-throughput web platforms, and governing enterprise design systems.
 
 Architect of zero-to-one Directed Acyclic Graph (DAG) multi-model agent orchestration frameworks, interactive workflow wizards, and custom developer harnesses. 
 
